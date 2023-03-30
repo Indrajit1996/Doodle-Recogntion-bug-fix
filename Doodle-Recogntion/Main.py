@@ -1,3 +1,0 @@
-import RectangleDetectionAndPerspectiveCorrection
-import ImageMatching
-import Predict
