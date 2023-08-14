@@ -4,3 +4,4 @@
 4. Run TrainAll.py to train all the models
 5. Run Main.py to scan the doodle and predict based on different models
 6. Run Saliency.py to obtain saliency map
+
